@@ -4,7 +4,7 @@
 Heart disease is a leading cause of death worldwide. Early detection and accurate prediction of heart disease risk can be life-saving. In this project, we aim to build and evaluate different supervised machine learning models to predict the likelihood of a person having heart disease based on various medical and lifestyle factors.
 
 ## Dataset
-We will use the "Heart Disease UCI" dataset, which is publicly available on the UCI Machine Learning Repository (https://archive.ics.uci.edu/ml/datasets/Heart+Disease). This dataset contains 303 instances and 14 attributes, including age, sex, cholesterol level, resting heart rate, and more. The target variable is binary, indicating the presence or absence of heart disease.
+We will use the "Heart Disease UCI" dataset, which is publicly available on the UCI Machine Learning Repository (https://archive.ics.uci.edu/ml/datasets/Heart+Disease). This dataset contains 920 instances and 14 attributes, including age, sex, cholesterol level, resting heart rate, and more. The target variable is binary, indicating the presence or absence of heart disease.
 
 ## Problem Statement
 The goal of this project is to develop and compare different supervised machine learning algorithms for predicting heart disease. We will evaluate the following algorithms:
